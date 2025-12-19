@@ -1,4 +1,4 @@
-Voici une proposition de fichier `README.md` complet et professionnel pour ton projet C++.
+
 
 ---
 
